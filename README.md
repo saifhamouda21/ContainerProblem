@@ -16,5 +16,6 @@ for example: if you have 250 vaccine bottles then you need  2 Large containers a
 
 ## Screenshots
 
-![alt text](https://imgur.com/0ibMGlW)
+![OUTPUT](![image](https://github.com/saifhamouda21/ContainerProblem/assets/47557539/c00e0e53-07fa-456b-ad57-4827b616d78a)
+)
 
